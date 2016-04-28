@@ -1,0 +1,26 @@
+{
+  "name": "homework 1init project",
+  "homepage": "https://github.com/huntas/adv-fe",
+  "authors": [
+    "Alex Hunta <cvetercom@gmail.com>"
+  ],
+  "description": "homework part1 initprojekt",
+  "main": "index.html",
+  "keywords": [
+    "Front-end",
+    "Science"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "react": "^15.0.1"
+  }
+}
